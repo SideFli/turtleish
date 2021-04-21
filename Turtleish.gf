@@ -6,5 +6,5 @@ concrete TurtleishEng of Turtleish = {
         Turtleish recip = {s = "Turtleish" ++ recip.s} ;
         Someone-taking-a-long-time-to-get-out-of-bed = {s = "Someone-taking-a-long-time-to-get-out-of-bed"} ;
         Turtle = {s = "Turtle"} ;
-        A-slow-person = {s = "A-slow-person"} ;
+        A-slow-person = {s = "A-tired-a-heck-person"} ;
     }
